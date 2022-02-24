@@ -1,5 +1,6 @@
 import cv2
 from simple_facerec import SimpleFacerec
+# Select external cam
 cap = cv2.VideoCapture(1)
 
 
